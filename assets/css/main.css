@@ -1283,7 +1283,7 @@ section,
 .team .team-member .social {
   position: absolute;
   left: 0;
-  bottom: 30px;
+  bottom: 10px;
   right: 0;
   opacity: 0;
   transition: ease-in-out 0.3s;
@@ -1716,6 +1716,6 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
-}
+/*.starter-section {
+   Add your styles here 
+} */
