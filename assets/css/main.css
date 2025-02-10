@@ -209,7 +209,8 @@ h6 {
 /* Navmenu - Desktop */
 @media (min-width: 1200px) {
   .navmenu {
-    padding: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
   }
 
   .navmenu ul {
@@ -663,13 +664,14 @@ section,
   width: 100%;
   min-height: 70vh;
   position: relative;
-  padding: 80px 0 60px 0;
+  padding: 0 0 60px 0;
   display: flex;
   align-items: center;
 }
 
 .hero h1 {
-  margin: 0;
+  margin-top: 0;
+  padding-top: 0;
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
